@@ -1,1 +1,1 @@
-# exoveDeveloperTest
+These are my answers to the assingments for Exove Developer test.
