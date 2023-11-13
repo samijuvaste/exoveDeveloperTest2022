@@ -1,1 +1,1 @@
-These are my answers to the assingments for Exove Developer test.
+These are my answers to Exove Developer test (for trainee application 2022).
